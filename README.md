@@ -29,7 +29,7 @@ En somme, le fichier que vous allez rédiger sera lui-même la solution complèt
 
 
 
-## Étape 1 - Créer le repo sur Github, puis le cloner
+## Étape 1 - ~~Créer le repo sur Github~~, puis le cloner
 
 ~~On commence par cliquer sur le bouton O'Challenge pour générer le repo, mais si vous lisez ceci, c'est que c'est déjà fait.~~
 
