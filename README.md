@@ -31,9 +31,9 @@ En somme, le fichier que vous allez rédiger sera lui-même la solution complèt
 
 ## Étape 1 - Créer le repo sur Github, puis le cloner
 
-On commence par cliquer sur le bouton O'Challenge pour générer le repo, mais si vous lisez ceci, c'est que c'est déjà fait.
+~~On commence par cliquer sur le bouton O'Challenge pour générer le repo, mais si vous lisez ceci, c'est que c'est déjà fait.~~
 
-Une fois le repo généré sur l'orga de la promo, on le clone sur sa machine avec la commande que l'on connait bien :wink:
+~~Une fois le repo généré sur l'orga de la promo~~, on le clone sur sa machine avec la commande que l'on connait bien :wink:
 
 :warning: __Rappel__ : on essaye de garder ses ateliers et les repos organisés dans sa machine, avec des dossiers pour chaque saison, et éventuellement pour chaque épisode.
 
